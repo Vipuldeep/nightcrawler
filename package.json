@@ -6,6 +6,19 @@
     "engines": {
         "vscode": "^1.54.0"
     },
+    "publisher": "Vipuldeep",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vipuldeep/nightcrawler"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "nightcrawler dark theme",
+        "black theme",
+        "dark+",
+        "dark themes"
+    ],
     "categories": [
         "Themes"
     ],
