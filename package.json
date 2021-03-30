@@ -1,0 +1,21 @@
+{
+    "name": "nightcrawler",
+    "displayName": "Nightcrawler",
+    "description": "Nightcrawler dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightcrawler",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightcrawler-color-theme.json"
+            }
+        ]
+    }
+}
