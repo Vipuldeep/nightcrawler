@@ -1,7 +1,7 @@
 ## Install
 
 ## Sample
-[![Custom dark theme](https://github.com/Vipuldeep/nightcrawler/blob/master/preview.png)]
+[![Custom dark theme](https://github.com/Vipuldeep/nightcrawler/blob/main/preview.png)]
 
 1. Go to [VS Marketplace]()
 2. Click on the "Install" button
